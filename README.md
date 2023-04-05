@@ -1,4 +1,7 @@
-# -Reading-Notes
+# level-2: 401 -Advanced Software Development
+## overview
+collection of notes that are taken while reading books, articles, research papers, or any other type of literature. The purpose of this repo is to help individuals organize and remember key ideas and concepts from their readings, and to facilitate sharing and collaboration with others who may be interested in the same topics.
+
 ## Prep-Work
 | Title       | link                           |
 | ----------- | ---                            |
