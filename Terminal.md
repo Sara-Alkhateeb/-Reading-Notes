@@ -1,4 +1,5 @@
 # Practice in the Terminal
+### learning terminal with Python can help you become more productive and efficient in your work, and give you the skills and knowledge to tackle a wide range of programming and data-related challenges.
 ## The Command Line 
 The command line works by accepting text commands from the user and then executing those commands as instructions for the computer to perform a specific action. These actions can range from simple file management tasks like creating and deleting files, to more complex system administration tasks like configuring network settings and managing user accounts.
 
