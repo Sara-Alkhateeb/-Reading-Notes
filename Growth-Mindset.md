@@ -10,7 +10,7 @@ A growth mindset believes in the ability to develop and improve intelligence, sk
 According to my result If I scored between 100 and 120, I have high self awareness, curiosity, and courage.
 This is a positive result, as it suggests that actively working to examine my own thoughts and behaviors and to challenge any biases or prejudices that I may hold. By being aware of my own biases and taking steps to address them, I can become a more empathetic and inclusive person, and contribute to a more equitable and just society.
 
-## According to the emotional intelligence test, I received the following scores (out from 25) :
+## According to the Emotional Intelligence Test, I received the following scores (out from 25) :
 
 - 18 points in self-awareness 
 - 22 points in self-management
