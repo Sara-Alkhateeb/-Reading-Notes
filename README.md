@@ -8,6 +8,7 @@ collection of notes that are taken while reading books, articles, research paper
 | SQL         | [SQL_summary](./sql_readme.md) |
 | DSA         | [DSA_summary](./data%20structure.md) |
 | ER          | [ER_summary](./Engineering-Readings.md) |
+| Terminal    | [Terminal_summary](./Terminal.md) |
 
 
 
