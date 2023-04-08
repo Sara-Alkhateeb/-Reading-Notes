@@ -1,5 +1,5 @@
 # level-2: 401 -Advanced Software Development
-## overview
+## Overview
 collection of notes that are taken while reading books, articles, research papers, or any other type of literature. The purpose of this repo is to help individuals organize and remember key ideas and concepts from their readings, and to facilitate sharing and collaboration with others who may be interested in the same topics.
 
 ## Prep-Work
@@ -9,10 +9,11 @@ collection of notes that are taken while reading books, articles, research paper
 | DSA         | [DSA_summary](./data%20structure.md) |
 | ER          | [ER_summary](./Engineering-Readings.md) |
 | Terminal    | [Terminal_summary](./Terminal.md) |
+| GM          | [GM_summary](./Growth-Mindset.md) |
 
 
 
-## classes Summary
+## Classes Summary
 | Title       | link                                  |
 | ----------- | ---                                   |
 | Class 01    | [reading_summary](./class01-readme.md) |
