@@ -6,6 +6,7 @@ collection of notes that are taken while reading books, articles, research paper
 | Title       | link                           |
 | ----------- | ---                            |
 | SQL         | [SQL_summary](./sql_readme.md) |
+| DSA         | [DSA_summary](./data%20structure.md) |
 
 
 
