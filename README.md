@@ -18,4 +18,5 @@ collection of notes that are taken while reading books, articles, research paper
 | ----------- | ---                                   |
 | Class 01    | [reading_summary](./class01-readme.md) |
 | Class 02    | [reading_summary](./class02-readme.md) |
+| Class 03    | [reading_summary](./class03-readme.md) |
 
