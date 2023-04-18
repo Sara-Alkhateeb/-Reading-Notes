@@ -22,4 +22,5 @@ collection of notes that are taken while reading books, articles, research paper
 | Class 04    | [reading_summary](./class04-readme.md) |
 | Class 05    | [reading_summary](./class05-readme.md) |
 | Class 06    | [reading_summary](./class06-readme.md) |
+| Class 07    | [reading_summary](./class07-readme.md) |
 
