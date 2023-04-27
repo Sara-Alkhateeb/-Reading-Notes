@@ -27,26 +27,6 @@ In this example, we use a list comprehension to create a new list called `even_n
 ## What is a decorator in Python?
 Decorators are used to wrap a function with another function, providing additional functionality to the original function. They allow you to modify the behavior of a function or class method dynamically at runtime, without changing its original code.
 
-     def greeting_decorator(func):
-     def defintion():
-        print("Hello")
-        func()
-        print("Nice to meet you!")
-     return defintion
-
-     @greeting_decorator
-     def greet():
-        print("My name is Sara")
-
-     greet()
-
-Output : 
-
-     Hello
-     My name is Sara
-     Nice to meet you!
-
-
 ## Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading
 
 Decorators are a powerful feature of Python that allow you to add functionality to functions and methods dynamically, without modifying their source code. A decorator is a special kind of function that takes another function as input, modifies it, and returns the modified function. The modified function can then be called in the same way as the original function, but with additional functionality.
