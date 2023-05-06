@@ -26,3 +26,4 @@ collection of notes that are taken while reading books, articles, research paper
 | Class 08    | [reading_summary](./calss08-readme.md) |
 | Class 09    | [reading_summary](./class09-readme.md) |
 | Class 10    | [reading_summary](./class10-readme.md) |
+| Class 11    | [reading_summary](./class11-readme.md) |
