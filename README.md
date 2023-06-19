@@ -36,3 +36,4 @@ collection of notes that are taken while reading books, articles, research paper
 | Class 26    | [reading_summary](./class26-readme.md) |
 | Class 27    | [reading_summary](./class27-readme.md) |
 | Class 28    | [reading_summary](./class28-readme.md) |
+| Class 29    | [reading_summary](./class29-readme.md) |
