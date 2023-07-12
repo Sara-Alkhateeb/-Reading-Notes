@@ -1,0 +1,9 @@
+
+WHY:
+Graphs are a fundamental data structure used in computer science and other fields to model and represent relationships between entities. They are versatile and powerful tools that allow us to analyze and solve a wide range of problems. Graphs provide a way to capture and visualize complex interconnections and dependencies, making them essential for understanding and solving real-world scenarios. By leveraging graph theory and algorithms, we can tackle problems related to network analysis, social networks, route planning, data organization, and much more. Understanding graphs is crucial for developing efficient solutions to various computational challenges.
+
+WHAT:
+A graph is a collection of nodes (vertices) connected by edges. It consists of two main components: nodes and edges. Nodes represent entities or elements, while edges denote the relationships or connections between the nodes. Graphs can be either directed, where edges have a specific direction, or undirected, where edges are bidirectional. Graphs can also be weighted, meaning that edges have associated values or costs. Additionally, graphs can have cycles (cyclic) or not (acyclic).
+
+HOW:
+Graphs can be implemented and represented in various ways. Two common representations are the adjacency matrix and the adjacency list. In an adjacency matrix, a square matrix is used to store the connections between nodes. The presence or absence of an edge between two nodes is represented by a 1 or a 0, respectively. In an adjacency list, each node maintains a list or array of its adjacent nodes. This representation is often more memory-efficient for sparse graphs.
