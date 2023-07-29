@@ -47,3 +47,4 @@ collection of notes that are taken while reading books, articles, research paper
 | Class 37    | [reading_summary](./class37-readme.md) |
 | Class 38    | [reading_summary](./class38-readme.md) |
 | Class 39    | [reading_summary](./class39-readme.md) |
+| Class 41    | [reading_summary](./class41-readme.md) |
